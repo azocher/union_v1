@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Noto+Sans');
+
+h1 {
+  color: #113377;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+header {
+  background-color: #decd99;
+  height: 100px;
+  color: #886677;
+}
+
+p {
+  font-family: 'Noto Sans';
+}
